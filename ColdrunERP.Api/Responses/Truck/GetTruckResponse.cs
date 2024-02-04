@@ -1,4 +1,4 @@
-﻿namespace ColdrunERP.Api.Responses
+﻿namespace ColdrunERP.Api.Responses.Truck
 {
     public class GetTruckResponse
     {

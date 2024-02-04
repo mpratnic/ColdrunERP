@@ -1,5 +1,5 @@
 using ColdrunERP.Api.Requests.Truck;
-using ColdrunERP.Api.Responses;
+using ColdrunERP.Api.Responses.Truck;
 using ColdrunERP.Application.Commands.Truck;
 using ColdrunERP.Application.Queries.Truck;
 using MediatR;
