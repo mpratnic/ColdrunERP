@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColdrunERP.Domain", "ColdrunERP.Model\ColdrunERP.Domain.csproj", "{5DDBC8E2-F7D0-44C9-99E0-B36EF1AA58F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColdrunERP.Application", "ColdrunERP.Application\ColdrunERP.Application.csproj", "{9590194F-A8E7-45C9-91AD-9C66B3BDA68E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColdrunERP.Infrastructure", "ColdrunERP.Infrastructure\ColdrunERP.Infrastructure.csproj", "{1853B866-AC6F-4BCB-96CA-9D81A255D123}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColdrunERP.Api", "ColdrunERP.Api\ColdrunERP.Api.csproj", "{D0116E04-B4C8-4A79-BEB3-D85FF63EC089}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColdrunERP.Database", "ColdrunERP.Database\ColdrunERP.Database.csproj", "{06AA301F-1E9A-46EE-A36D-31AF76E9DA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDBC8E2-F7D0-44C9-99E0-B36EF1AA58F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDBC8E2-F7D0-44C9-99E0-B36EF1AA58F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDBC8E2-F7D0-44C9-99E0-B36EF1AA58F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDBC8E2-F7D0-44C9-99E0-B36EF1AA58F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9590194F-A8E7-45C9-91AD-9C66B3BDA68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9590194F-A8E7-45C9-91AD-9C66B3BDA68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9590194F-A8E7-45C9-91AD-9C66B3BDA68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9590194F-A8E7-45C9-91AD-9C66B3BDA68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1853B866-AC6F-4BCB-96CA-9D81A255D123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1853B866-AC6F-4BCB-96CA-9D81A255D123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1853B866-AC6F-4BCB-96CA-9D81A255D123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1853B866-AC6F-4BCB-96CA-9D81A255D123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0116E04-B4C8-4A79-BEB3-D85FF63EC089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0116E04-B4C8-4A79-BEB3-D85FF63EC089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0116E04-B4C8-4A79-BEB3-D85FF63EC089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0116E04-B4C8-4A79-BEB3-D85FF63EC089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06AA301F-1E9A-46EE-A36D-31AF76E9DA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AA301F-1E9A-46EE-A36D-31AF76E9DA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AA301F-1E9A-46EE-A36D-31AF76E9DA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AA301F-1E9A-46EE-A36D-31AF76E9DA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF31FB7B-ADF6-4A07-BD51-3099018BDD6F}
+	EndGlobalSection
+EndGlobal
